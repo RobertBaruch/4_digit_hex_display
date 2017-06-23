@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TDSR1060
+D Vishay 7 segment LED, common cathode
+K segment, LED
+$ENDCMP
+#
+#End Doc Library

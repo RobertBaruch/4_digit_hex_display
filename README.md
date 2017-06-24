@@ -12,5 +12,7 @@ A 4-digit hex display.
   * 4x ATTINY84A-SSU (the 14-pin SOIC package)
   * 4x Vishay TDSR1060 7-segment displays
   * 2x 1x10 0.1" pitch pin headers (optional)
+  
+In the image, it looks like the off segments are slightly lit, but they are actually very very slightly illuminated from the other segments. That's just a camera effect. In actual viewing conditions, the effect is hardly visible. If you wanted to reduce the lumens as well as the current consumption, you might increase the 3.3k resistors.
 
 ![Image of device](4_digit_hex_display_img.jpg)
